@@ -1,1 +1,1 @@
-Автор: Сливкина Ксения Сергеевна
+## Homework for the course "Digital signal processing"
